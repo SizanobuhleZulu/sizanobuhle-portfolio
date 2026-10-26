@@ -62,8 +62,8 @@ Rule: nothing goes on the site that isn't on a CV.
 
 ## Deploying
 
-Push to GitHub, then import the repo on vercel.com (framework: Next.js, no settings needed).
-Optionally set `NEXT_PUBLIC_SITE_URL` to your final URL so share previews use it.
+Live at **https://sizanobuhle-portfolio.vercel.app**. The Vercel project is connected to this GitHub repo,
+so every push to `main` redeploys automatically.
 
 ## Credits and licences
 

@@ -30,7 +30,7 @@ const title = `${PROFILE.displayName} · ${PROFILE.discipline}`;
 const description = ROLES[0].summary.split(". ").slice(0, 2).join(". ") + ".";
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://sizanobuhle-zulu.vercel.app"),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://sizanobuhle-portfolio.vercel.app"),
   title,
   description,
   openGraph: {

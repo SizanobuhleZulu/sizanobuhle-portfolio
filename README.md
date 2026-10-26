@@ -55,7 +55,7 @@ first click, key press or tap unlocks sound. It pauses when less than 35% of the
 Everything is in `src/lib/data.ts`:
 
 - `ROLES`: the four CV variants (heading, verbatim summary, matching PDF)
-- `PROFILE`: contact details, plus `linkedin` (empty right now; paste your full URL and the LinkedIn buttons appear)
+- `PROFILE`: contact details, GitHub and LinkedIn links
 - `SKILLS`, `PROJECTS`, `CERTIFICATIONS`, `TIMELINE`, `ACHIEVEMENTS`, `ID_BACK`
 
 Rule: nothing goes on the site that isn't on a CV.
